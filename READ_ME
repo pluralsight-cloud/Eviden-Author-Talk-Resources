@@ -1,0 +1,5 @@
+This repository contains the presentation slides, demo and resources from the Generative AI Author Talk Session by Faye Ellis. 
+The demo was based on the following AWS Blog post available here: https://aws.amazon.com/blogs/machine-learning/quickly-build-high-accuracy-generative-ai-applications-on-enterprise-data-using-amazon-kendra-langchain-and-large-language-models/
+
+The Python application code and CloudFormation template used during the demo is available here: 
+https://github.com/aws-samples/amazon-kendra-langchain-extensions/tree/main/kendra_retriever_samples
